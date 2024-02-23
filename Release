@@ -5,5 +5,5 @@ Version: 1.0
 Codename: xAbdoAT
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: Hell
+Description: Rootless
 Icon: file://CydiaIcon.png
