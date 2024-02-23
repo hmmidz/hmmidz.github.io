@@ -12,3 +12,20 @@ SHA256: 38865ebb66a28061b6a7d520805aeb55efca546705a13102a86633c3067b741d
 Section: Tweaks
 Depiction: Disables passcode after a respring.
 Name: NoPassAfterRespring (Safe)
+
+Name: safarix
+Package: com.ipapplus.safarix_1.0.1
+Architecture: iphoneos-arm64
+Author: hmmidz
+Maintainer: hmmidz
+Section: Tweaks
+Version: 1.0
+Depends: mobilesubstrate
+Conflicts: 
+Filename: ./debs/com.ipapplus.safarix_1.0.1_iphoneos-arm64.deb
+Size: 130444
+MD5sum: f50e4bc793ef5bcacdfad5c8718750a0
+SHA1: e5f9738823b00d51f434066bbee70b1fefe7871c
+SHA256: 781481b1b9be09cbee66313502fbd4ce04b51471105bb792c69cc1bf6b631502
+Description: tweak for safari
+Depiction: https://hmmidz.github.io/depic/Depiction.json
